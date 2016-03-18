@@ -1,0 +1,12 @@
+{
+    "name": "root/slim-bone",
+    "authors": [
+        {
+            "name": "zairl23",
+            "email": "756127792@qq.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.3"
+    }
+}
